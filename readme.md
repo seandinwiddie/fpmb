@@ -4,7 +4,7 @@ The message board application using Redux.js(, Expo Go/Electron), TypeScript, an
 
 ## 𝔅𝔲𝔰𝔦𝔫𝔢𝔰𝔰 ℜ𝔢𝔮𝔲𝔦𝔯𝔢𝔪𝔢𝔫𝔱𝔰
 
-• 𝐃𝐚𝐫𝐤 𝐌𝐨𝐝𝐞: The application should have DarkMode enabled by default, providing users with a dark color scheme for better readability in low-light environments.
+• 𝐃𝐚𝐫𝐤 𝐌𝐨𝐝𝐞: The application should have DarkMode enabled by default, providing users with a dark color scheme for better readability in low-light environments. ✅
 
 • 𝐑𝐞𝐝𝐮𝐱 𝐒𝐭𝐚𝐭𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: The application should utilize Redux.js for managing the application state. Redux reducers should be implemented to handle actions related to fetching message posts, adding comments, and updating the state accordingly.
 
